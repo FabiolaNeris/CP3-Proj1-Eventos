@@ -5,7 +5,7 @@
 # visualizar_detalhes_evento
 # salvar_dados
 # carregar_dados
-
+import json
 
 def criar_evento (eventos, nome, data, capacidade,localizacao):
     novo_evento = {}
